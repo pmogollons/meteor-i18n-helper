@@ -1,5 +1,5 @@
 {
-  "name": "atom-meteor-i18n",
+  "name": "meteor-i18n",
   "main": "./lib/i18n-helper",
   "version": "0.0.0",
   "description": "A short description of your package",
