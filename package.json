@@ -1,13 +1,13 @@
 {
-  "name": "meteor-i18n",
+  "name": "atom-meteor-i18n",
   "main": "./lib/i18n-helper",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "i18n-helper:toggle"
   },
-  "repository": "https://github.com/atom/meteor-i18n",
+  "repository": "https://github.com/pmogollons/meteor-i18n-helper.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
