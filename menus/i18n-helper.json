@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-workspace": [
+      {
+        "label": "i18n: Update files",
+        "command": "i18n-helper:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "i18n-helper",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "i18n-helper:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
